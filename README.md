@@ -125,7 +125,7 @@ The idea of the shopping lists is to provide you the best tested hardware compon
 - RaspberryPi 5 Active Cooler [pimoroni shop](https://shop.pimoroni.com/products/raspberry-pi-5-active-cooler)
 - RaspberryPi 5 Official Power Supply 27W [pimoroni shop](https://shop.pimoroni.com/products/raspberry-pi-27w-usb-c-power-supply)
 - Pimoroni NVMe Base [pimoroni shop](https://shop.pimoroni.com/products/nvme-base?variant=41219587178579)
-- SSD 1TB M.2 NVMe-PCIe Gen3 
+- SSD 1TB M.2 NVMe-PCIe Gen3 [exmaple](https://www.amazon.de/Crucial-PCIe-Gen3-Interne-3500MB/dp/B0C2WGL8DQ)
 - LCD - 3.5" RPi Display, GPIO connection, XPT2046 Touch Controller: [amazon referral link](https://geni.us/raspiblitz-touchscreen)
 - MicroSDCard 32GB - Samsung PRO Endurance 32 GB microSDHC UHS-I U1: [amazon referral link](https://geni.us/raspiblitz-sc-card)
 
